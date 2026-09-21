@@ -1,0 +1,5 @@
+name: clemson-rcd
+kind: model-provider
+version: 1.0.0
+description: Clemson Research Computing LLM gateway
+author: Trey Keys
